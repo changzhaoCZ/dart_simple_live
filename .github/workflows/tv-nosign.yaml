@@ -1,4 +1,4 @@
-name: app-tv-build-action-release
+name: app-tv-nosign-build-action-release
 # 手动触发
 on:
   workflow_dispatch:
